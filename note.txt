@@ -1,0 +1,2 @@
+INSERT INTO `settings` (`id`, `website_name`, `website_owner`, `slogan`, `logo`, `address`, `email`, `phone`, `location`, `working_hours`, `link_website`, `meta_keywords`, `meta_description`, `created_at`, `updated_at`) VALUES
+(1, 'bitTo Solution', 'bitTo Solution', 'bitTo Solution - Turn difficulties into solution', '', '177 Bạch Đằng, Phường 15, Quận Bình Thạnh', 'sales@bittosolution.vn', '035 835 7061', '10.81809, 106.7194899', '9:00AM - 18:00PM', 'https://www.bittosolution.vn', 'Meta keywords', 'Meta description', '2019-03-21 10:43:56', '2019-05-11 16:24:33');

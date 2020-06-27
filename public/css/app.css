@@ -1,0 +1,144 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+/* Custom logo */
+
+.kt-header-mobile__logo img[alt="Logo"],
+.kt-aside__brand-logo img[alt="Logo"] {
+	height: 4rem;
+}
+
+/* End custom logo */
+
+/* Custom css */
+
+.kt-menu__item .svg-inline--fa {
+	margin: 0rem 1rem;
+}
+
+.kt-menu__item .svg-inline--fa:first-child {
+	position: absolute;
+	left: 0.5rem;
+}
+
+.kt-menu__item .svg-inline--fa:last-child {
+	position: absolute;
+	right: 0.5rem;
+}
+
+.kt-menu__item .kt-menu__link-text {
+	margin: 0rem 2rem;
+}
+
+#kt_wrapper {
+	padding-top: 60px;
+}
+
+.input-group-text.igtl {
+	min-width: 8rem;
+	justify-content: center;
+}
+
+.input-group-text.igtl .svg-inline--fa {
+	margin-right: 0.25rem;
+}
+
+.has-search .form-control {
+	padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+	position: absolute;
+	z-index: 2;
+	display: block;
+	width: 2.375rem;
+	height: 2.375rem;
+	line-height: 2.375rem;
+	text-align: center;
+	pointer-events: none;
+	color: #aaa;
+}
+
+.btn-full-width {
+	width: 100%;
+}
+
+.form-control-radio {
+	padding: 0.75rem 0rem;
+}
+
+.modal .modal-header {
+	justify-content: center;
+}
+
+.kt-portlet {
+	margin-bottom: 0;
+}
+
+.kt-portlet .kt-portlet__body .form-control {
+	margin: 0.25rem 0rem;
+	border: 1px solid darkgray;
+}
+
+.kt-portlet__foot .kt-form__actions {
+	text-align: center;
+}
+
+.kt-portlet .kt-portlet__body .img-size {
+	margin: 0.25rem 0rem;
+	border: 1px solid darkgray;
+	min-width: 10rem;
+	min-height: 10rem;
+	max-width: 10rem;
+	max-height: 10rem;
+}
+
+.kt-portlet .kt-checkbox {
+	border: 1px solid gray;
+}
+
+.kt-portlet__head-label button {
+	margin: 0rem 0.5rem;
+	min-width: 8rem;
+}
+
+.kt-subheader .btn {
+	display: block;
+	min-width: 6rem;
+}
+
+.margin-sub-header {
+	margin: 2rem 0rem;
+}
+
+.kt-subheader .input-group {
+	width: 25rem;
+	padding-right: 1rem;
+}
+
+.kt-subheader .total-items {
+	padding-right: 1rem;
+}
+
+.kt-subheader .svg-inline--fa {
+	height: 2.5rem;
+}
+
+.kt-portlet__head-label button.back {
+	min-width: auto;
+}
+
+table.datatable th {
+	font-weight: bold;
+}
+
+.table-responsive .col-sm-12.col-md-6>div {
+	margin: 0.5rem 1rem;
+}
+
+.datatable input[type=checkbox] {
+	width: 1.5rem;
+}
+
+/* End custom css */
